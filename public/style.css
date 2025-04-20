@@ -89,6 +89,12 @@ input[type="text"] {
     align-items: center;
 }
 
+.user {
+    color: #ffffff;
+    background-color: #041f3a;
+    padding: 1%;
+}
+
 html, body {
     margin: 0;
     padding: 0;
